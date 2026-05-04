@@ -52,5 +52,5 @@ Untuk memastikan pengembangan aplikasi berjalan sesuai jadwal (SDLC), saya mengg
 
 *   **Project Tracking**: [ClickUp Management Tool](https://sharing.clickup.com/90181791691/l/h/6-901816393199-1/830e453a03502a3) — Untuk manajemen tugas dan timeline pengerjaan.
 *   **Interactive Design**: [Figma Prototype (High-Fidelity)](https://www.figma.com/design/3l15aXo2N0r6KcZFuKqucE/Untitled?node-id=0-1&t=8qx27zX9ZZdLuWSv-1) — Untuk simulasi alur aplikasi sebelum tahap coding.
-*   **Demo Video**: [YouTube Presentation]() — Penjelasan fitur dan demo penggunaan aplikasi secara langsung.
+*   **Demo Video**: [YouTube Presentation](https://youtube.com/shorts/KPQ9RlmT4zo?si=zprXEqHsN6SwHAyE) — Penjelasan fitur dan demo penggunaan aplikasi secara langsung.
 
