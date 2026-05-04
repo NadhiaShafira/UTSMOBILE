@@ -22,7 +22,7 @@
 ## 🎨 Storyboard Design (Tahap Awal)
 Sebelum masuk ke tahap pengembangan kode dan desain high-fidelity, saya merancang alur pengguna melalui storyboard untuk memetakan pengalaman pengguna dari awal hingga akhir.
 
-![Storyboard MyDrink]() 
+![Storyboard MyDrink](https://github.com/NadhiaShafira/UTSMOBILE/blob/1bf5565a9a5a47fb130a62972f9f4b0a651f3459/STORYBOARD%20(3).png) 
 *Gambar di atas merupakan rancangan kasar alur aplikasi sebagai fondasi pengembangan UI/UX.*
 
 ---
